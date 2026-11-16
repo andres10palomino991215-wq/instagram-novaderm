@@ -1,0 +1,8 @@
+# Entorno y datos de cada publicación son locales; no subir sesiones ni borradores.
+Grupo Novaderm/.herramientas/
+Grupo Novaderm/Publicaciones/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+.DS_Store

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Posts de Grupo Novaderm"
+  short_description: "Diseño y copy hasta dejar Instagram listo para publicar"
+  default_prompt: "Usa $novaderm-instagram para preparar un post de Grupo Novaderm y dejarlo cargado en Instagram sin pulsar Publicar."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Voz editorial de Grupo Novaderm"
+  short_description: "Titulares y pies con la voz de Grupo Novaderm"
+  default_prompt: "Usa $novaderm-copy para redactar y revisar los titulares y el pie de Instagram con el brief y la base elegida de Grupo Novaderm."

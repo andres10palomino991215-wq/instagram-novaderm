@@ -1,0 +1,169 @@
+[
+  {
+    "path": "references/visual/01.jpg",
+    "original": "Referencias visuales\\01 Facial 9 noviembre.jpg",
+    "source_url": "https://www.instagram.com/p/DfhpukJOpCA/",
+    "use": "Referencia de estilo, no autorizada como base de nuevas publicaciones.",
+    "sha256": "2feef31affaf833653f00710eaf5803583d0313329bc5b163edc2e949a750ee9"
+  },
+  {
+    "path": "references/visual/02.jpg",
+    "original": "Referencias visuales\\02 Piel 5 noviembre.jpg",
+    "source_url": "https://www.instagram.com/p/DfX_MQfuKoJ/",
+    "use": "Referencia de estilo, no autorizada como base de nuevas publicaciones.",
+    "sha256": "efe499f3e1ab86e68d1eaf2a607afe1f3fa5640967e77419cb8fa8828b242d56"
+  },
+  {
+    "path": "references/visual/03.jpg",
+    "original": "Referencias visuales\\03 Radiesse 31 octubre.jpg",
+    "source_url": "https://www.instagram.com/p/DfK_sMtOwcV/",
+    "use": "Referencia de estilo, no autorizada como base de nuevas publicaciones.",
+    "sha256": "d93feee477bd368de31fb8166fa3254d6e553698d7c48eb9e51e742543e26d2c"
+  },
+  {
+    "path": "references/visual/04.jpg",
+    "original": "Referencias visuales\\04 Novuma 26 octubre.jpg",
+    "source_url": "https://www.instagram.com/p/De-cwvMOxCP/",
+    "use": "Referencia de estilo, no autorizada como base de nuevas publicaciones.",
+    "sha256": "bb395edeb7b75e31cbaa15187a753af819cbdfc0904a7a2f8e9b8cb74d0994f0"
+  },
+  {
+    "path": "references/visual/05.jpg",
+    "original": "Referencias visuales\\05 Unas 23 octubre.jpg",
+    "source_url": "https://www.instagram.com/p/De0yhtwuXSl/",
+    "use": "Referencia de estilo, no autorizada como base de nuevas publicaciones.",
+    "sha256": "330ce013f734ade3afa98b5583e0924e5c08058fa577d97f3d1e787c66f5c854"
+  },
+  {
+    "path": "references/visual/06.jpg",
+    "original": "Referencias visuales\\06 Labios 19 octubre.jpg",
+    "source_url": "https://www.instagram.com/p/DesJ9Lius5Z/",
+    "use": "Referencia de estilo, no autorizada como base de nuevas publicaciones.",
+    "sha256": "9731d7383820392b1aee509aacd14520dfa8a6695127260712de95415730d6a1"
+  },
+  {
+    "path": "references/visual/07.jpg",
+    "original": "Referencias visuales\\07 Skincare sin genero 10 octubre.jpg",
+    "source_url": "https://www.instagram.com/p/DeUx7nqOfeS/",
+    "use": "Referencia de estilo, no autorizada como base de nuevas publicaciones.",
+    "sha256": "68d49da9709d4be4a572d94711e9f0988678c5078ada816046927fd8de4eefcf"
+  },
+  {
+    "path": "references/visual/08.jpg",
+    "original": "Referencias visuales\\08 Psoriasis 6 octubre.jpg",
+    "source_url": "https://www.instagram.com/p/DeK3pxoO6vQ/",
+    "use": "Referencia de estilo, no autorizada como base de nuevas publicaciones.",
+    "sha256": "db7f6936b6407b70a6049f6ecc1393ce2c552bd763fd51d67016919c8e4e4fb7"
+  },
+  {
+    "path": "references/visual/09.jpg",
+    "original": "Referencias visuales\\09 Acne recurrente 25 septiembre.jpg",
+    "source_url": "https://www.instagram.com/p/Ddt6imAO_by/",
+    "use": "Referencia de estilo, no autorizada como base de nuevas publicaciones.",
+    "sha256": "631bc1028af5cce0e4d64936e12f6371f6cd9e5cfcb47b8c2a115721a5f90181"
+  },
+  {
+    "path": "references/visual/10.jpg",
+    "original": "Referencias visuales\\10 Telangiectasias 17 septiembre.jpg",
+    "source_url": "https://www.instagram.com/p/DdaMEkGOqiG/",
+    "use": "Referencia de estilo, no autorizada como base de nuevas publicaciones.",
+    "sha256": "f97ebb0f311cdf7b05e68d3f3ed9a0f2875401736f3689653131ae4bd24067d7"
+  },
+  {
+    "path": "references/visual/11.jpg",
+    "original": "Referencias visuales\\11 Cuello 13 septiembre.jpg",
+    "source_url": "https://www.instagram.com/p/DdO-stEO9d4/",
+    "use": "Referencia de estilo, no autorizada como base de nuevas publicaciones.",
+    "sha256": "2f448d5285f273c1e3c47d50f8317ed39583d2b3b10ceeae76690888e0bebd2a"
+  },
+  {
+    "path": "references/visual/12.jpg",
+    "original": "Referencias visuales\\12 Melasma 8 septiembre.jpg",
+    "source_url": "https://www.instagram.com/p/DdCQEZ4O6kn/",
+    "use": "Referencia de estilo, no autorizada como base de nuevas publicaciones.",
+    "sha256": "df3013fb44415783afddb87498435aba9c0f07958efb21a3561602e4aa2cddc6"
+  },
+  {
+    "path": "references/visual/logo-referencia.png",
+    "original": "Referencias visuales\\Referencia logo proporcionada.png",
+    "source_url": null,
+    "use": "Referencia aportada por el usuario; derechos no certificados.",
+    "sha256": "d2c93ccd6146b0f24b156a96f6bedb66c3ccc718ad4ec841991dec1e4782b36d"
+  },
+  {
+    "path": "assets/logos/isotipo-blanco.svg",
+    "original": "Logos\\logo versión 2 blanco.svg",
+    "source_url": null,
+    "use": "Reconstrucción local, no maestro oficial. Uso interno de maquetación para revisión.",
+    "sha256": "3cca910b37d00ef9fcdc541702b38f216a2e8851630ddae08779f79b1b58178b"
+  },
+  {
+    "path": "assets/logos/isotipo-gris.svg",
+    "original": "Logos\\logo versión 2.svg",
+    "source_url": null,
+    "use": "Reconstrucción local, no maestro oficial. Uso interno de maquetación para revisión.",
+    "sha256": "b43955c5aa1ff8c728ec929d0c61762ed3860831bee11b933aa15fc294540d65"
+  },
+  {
+    "path": "assets/logos/isotipo-color.svg",
+    "original": "Logos\\SVG logo principal.svg",
+    "source_url": null,
+    "use": "Reconstrucción local, no maestro oficial. Uso interno de maquetación para revisión.",
+    "sha256": "ffe7aed28c47435d1d5b03a9004b1f56ea606f921e16ce4a62014c465a848088"
+  },
+  {
+    "path": "references/sources/Documentación/Especificacion_detallada_NovaDerm.md",
+    "original": "Documentación\\Especificacion_detallada_NovaDerm.md",
+    "source_url": null,
+    "use": "Análisis local aportado; 26 publicaciones, sin auditoría independiente de Instagram en esta entrega.",
+    "sha256": "42602f42a5a674c2621b55c6306674834ac38674fa7365e8d64ae0ea7e7861c3"
+  },
+  {
+    "path": "references/sources/Documentación/Manual_NovaDerm_20_semanas.md",
+    "original": "Documentación\\Manual_NovaDerm_20_semanas.md",
+    "source_url": null,
+    "use": "Análisis local aportado; 26 publicaciones, sin auditoría independiente de Instagram en esta entrega.",
+    "sha256": "2b4d34ccc2862cf2b91e11e7467712a203534e839ef632db66131920ffbb0730"
+  },
+  {
+    "path": "references/sources/LEEME.md",
+    "original": "LEEME.md",
+    "source_url": null,
+    "use": "Procedencia y límites de los logos aportados.",
+    "sha256": "45eddd647b861232952099cb9f9acca40771ed0c1259f4e806944216c2847a14"
+  },
+  {
+    "path": "references/sources/Logos/Referencias anteriores/isotipo_novaderm_reconstruccion_provisional.svg",
+    "original": "Logos\\Referencias anteriores\\isotipo_novaderm_reconstruccion_provisional.svg",
+    "source_url": null,
+    "use": "Referencia histórica citada por la especificación; no usar por defecto.",
+    "sha256": "914939e5581b495f029f59d76892b4cf75266911c300557b1a8b273c1e55f9d7"
+  },
+  {
+    "path": "assets/fonts/CormorantGaramond.ttf",
+    "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/cormorantgaramond/CormorantGaramond%5Bwght%5D.ttf",
+    "retrieved": "2026-11-16",
+    "use": "Fuente sustituta, no identificación de marca. SIL OFL 1.1; licencia incluida.",
+    "sha256": "b20b7d9626dd956b2c5e558692ad328b1f19e3275e2782db4fa07670d83f35e0"
+  },
+  {
+    "path": "assets/fonts/OFL.txt",
+    "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/cormorantgaramond/OFL.txt",
+    "retrieved": "2026-11-16",
+    "use": "Fuente sustituta, no identificación de marca. SIL OFL 1.1; licencia incluida.",
+    "sha256": "60700d351cac4650c51f3f9db318d2a420f8b45052dba2715eb5fec41f0f6956"
+  },
+  {
+    "path": "assets/fonts/METADATA.pb",
+    "source_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/cormorantgaramond/METADATA.pb",
+    "retrieved": "2026-11-16",
+    "use": "Fuente sustituta, no identificación de marca. SIL OFL 1.1; licencia incluida.",
+    "sha256": "faa16a5e79613ca7cadd599ada1f4cf6891f3cb6731631fbed2a0b18a342e556"
+  },
+  {
+    "path": "references/visual/contacto.jpg",
+    "source": "Derived locally from visual/01.jpg–12.jpg",
+    "use": "Hoja de inspección; no recurso para nueva publicación.",
+    "sha256": "2e4560297e95ccd91e1bbac4f541e3310e23856c5ab93f557fbd271e2d3838e3"
+  }
+]

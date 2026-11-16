@@ -1,0 +1,4 @@
+interface:
+  display_name: "Preparar Instagram de Novaderm"
+  short_description: "Carga imagen y pie; deja Publicar al usuario"
+  default_prompt: "Usa $novaderm-instagram-draft para cargar el post final en Instagram y dejarlo preparado sin pulsar Publicar."
